@@ -1,0 +1,5 @@
+name,rent,station_2,station_3,station_4,mortgage_value,position,cost,path,color,retro
+Stazione Sud,25,50,100,200,100,5,200,card/stazione_sud.jpg,white,retro_card/stazione_sud.jpg
+Stazione Ovest,25,50,100,200,100,15,200,card/stazione_ovest.jpg,white,retro_card/stazione_ovest.jpg
+Stazione Nord,25,50,100,200,100,25,200,card/stazione_nord.jpg,white,retro_card/stazione_nord.jpg
+Stazione Est,25,50,100,200,100,35,200,card/stazione_est.jpg,white,retro_card/stazione_est.jpg

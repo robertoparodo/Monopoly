@@ -1,0 +1,23 @@
+name,rent,house_1,house_2,house_3,house_4,hotel,house_cost,mortgage_value,color,position,cost,path,retro
+Vicolo Corto,2,10,30,90,160,250,50,30,purple,1,60,card/vicolo_corto.jpg,retro_card/vicolo_corto.jpg
+Vicolo Stretto,4,20,60,180,320,450,50,30,purple,3,60,card/vicolo_stretto.jpg,retro_card/vicolo_stretto.jpg
+Bastoni Gran Sasso,6,30,90,270,400,550,50,50,light_blue,6,100,card/bastoni_gran_sasso.jpg,retro_card/bastoni_gran_sasso.jpg
+Viale Monterosa,6,30,90,270,400,550,50,50,light_blue,8,100,card/viale_monterosa.jpg,retro_card/viale_monterosa.jpg
+Viale Vesuvio,8,40,100,300,450,600,50,60,light_blue,9,120,card/viale_vesuvio.jpg,retro_card/viale_vesuvio.jpg
+Via Accademia,10,50,150,450,625,750,100,70,pink,11,140,card/via_accademia.jpg,retro_card/via_accademia.jpg
+Corso Ateneo,10,50,150,450,625,750,100,70,pink,13,140,card/corso_ateneo.jpg,retro_card/corso_ateneo.jpg
+Piazza Università,12,60,180,500,700,900,100,80,pink,14,160,card/piazza_università.jpg,retro_card/piazza_universita.jpg
+Via Verdi,14,70,200,550,750,950,100,90,orange,16,180,card/via_verdi.jpg,retro_card/via_verdi.jpg
+Corso Raffaello,14,70,200,550,750,950,100,90,orange,18,180,card/corso_raffaello.jpg,retro_card/corso_raffaello.jpg
+Piazza Dante,16,80,220,600,800,1000,100,100,orange,19,200,card/piazza_dante.jpg,retro_card/piazza_dante.jpg
+Via Marco Polo,18,90,250,700,875,1050,150,110,red,21,220,card/via_marco_polo.jpg,retro_card/via_marco_polo.jpg
+Corso Magellano,18,90,250,700,875,1050,150,110,red,23,220,card/corso_magellano.jpg,retro_card/corso_magellano.jpg
+Largo Colombo,20,100,300,750,925,1100,150,120,red,24,240,card/largo_colombo.jpg,retro_card/largo_colombo.jpg
+Viale Costantino,22,110,330,800,975,1150,150,130,yellow,26,260,card/viale_costantino.jpg,retro_card/viale_costantino.jpg
+Viale Traiano,22,110,330,800,975,1150,150,130,yellow,27,260,card/viale_traiano.jpg,retro_card/viale_traiano.jpg
+Piazza Giulio Cesare,24,120,360,850,1025,1200,150,140,yellow,29,280,card/piazza_giulio_cesare.jpg,retro_card/piazza_giulio_cesare.jpg
+Via Roma,26,130,390,900,1100,1275,200,150,green,31,300,card/via_roma.jpg,retro_card/via_roma.jpg
+Corso Impero,26,130,390,900,1100,1275,200,150,green,32,300,card/corso_impero.jpg,retro_card/corso_impero.jpg
+Largo Augusto,28,150,450,1000,1200,1400,200,160,green,34,320,card/largo_augusto.jpg,retro_card/largo_augusto.jpg
+Viale Dei Giardini,35,175,500,1100,1300,1500,200,175,blue,37,350,card/viale_dei_giardini.jpg,retro_card/viale_dei_giardini.jpg
+Parco Della Vittoria,50,200,600,1400,1700,2000,200,200,blue,39,400,card/parco_della_vittoria.jpg,retro_card/parco_della_vittoria.jpg
