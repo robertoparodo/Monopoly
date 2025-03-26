@@ -30,11 +30,6 @@ A player is eliminated when they cannot pay their debts.
 
 ---
 
-## 🖼️ Screenshots
-
-![Game Screenshot](screen/panel_set_start.png)
-
----
 
 ## 🚀 How to Run the Game
 
